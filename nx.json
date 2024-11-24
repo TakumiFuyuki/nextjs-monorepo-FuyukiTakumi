@@ -57,5 +57,10 @@
         "linter": "eslint"
       }
     }
+  },
+  "projects": {
+    "nextjs-app": "apps/nextjs-app",
+    "nextjs-app-e2e": "apps/nextjs-app-e2e"
   }
 }
+
